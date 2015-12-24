@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">媒体控制器</string>
+    <string name="action_settings">设置</string>
+
+    <string name="btntxt_play">播放</string>
+    <string name="btntxt_pause">暂停</string>
+    <string name="btntxt_visible">可见</string>
+    <string name="btntxt_gone">消失</string>
+
+</resources>
